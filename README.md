@@ -40,10 +40,13 @@ Transformar datos en **información estratégica**, optimizar la **infraestructu
   Script que garantiza respaldos diarios y eliminó errores humanos en la copia de seguridad.  
   👉 [Repositorio](https://github.com/tuusuario/backup-script)
 
-- **Análisis de Logs – Python**  
-  Limpieza y análisis de grandes volúmenes de logs para detectar patrones de uso y fallos.  
-  👉 [Repositorio](https://github.com/tuusuario/analisis-logs)
+- **Análisis con Python**  
+  Limpieza y análisis de grandes volúmenes de datos para detectar patrones de venta de autos y subir el resultado en render.  
+  👉 [Repositorio](https://github.com/DEMMSSS/PSPRINT7)
 
+- **Análisis con Python**
+- Limpieza y análisis de grandes volúmenes de datos para detectar patrones sobre el uso de una plataforma de taxis.
+  👉 [Repositorio](https://github.com/DEMMSSS/SPRINT8)
 ---
 
 ## 📫 Contacto
