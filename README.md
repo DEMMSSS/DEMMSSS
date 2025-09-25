@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Eduardo Muñoz  
 
-💻 **Ingeniero en Sistemas Computacionales** con más de **3 años de experiencia** en **administración de sistemas, análisis de datos y automatización de procesos**.  
+💻 **Ingeniero en Sistemas (3+ años) en Windows/Linux, redes y automatización con Python/PowerShell. Reduje -30% tiempos de soporte y elevé +25% la disponibilidad con estandarización y backups. Actualmente enfocado en Data Analytics/BI (SQL, Power BI, Excel avanzado).**.  
 
 🔹 Especializado en:  
 - Soporte de usuarios y servidores **Windows/Linux**  
