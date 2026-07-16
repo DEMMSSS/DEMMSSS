@@ -32,7 +32,7 @@ Transformar datos en **información estratégica**, optimizar la **infraestructu
 ---
 
 ## 📂 Proyectos Destacados
-- **Dashboard de Ventas – Power BI**  
+- **Proyecto Seguros**  
   Visualización de datos de ventas trimestrales que identificó un aumento del **15 %** en ingresos.  
   👉 [Repositorio](https://github.com/tuusuario/dashboard-ventas)
 
