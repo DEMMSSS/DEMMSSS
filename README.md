@@ -36,9 +36,9 @@ Transformar datos en **información estratégica**, optimizar la **infraestructu
   Visualización de datos de ventas trimestrales que identificó un aumento del **15 %** en ingresos.  
   👉 [Repositorio](https://github.com/tuusuario/dashboard-ventas)
 
-- **Automatización de Backups – PowerShell**  
-  Script que garantiza respaldos diarios y eliminó errores humanos en la copia de seguridad.  
-  👉 [Repositorio](https://github.com/tuusuario/backup-script)
+- **Analisis mineria**  
+
+  👉 [Repositorio](https://github.com/DEMMSSS/Analisis-Mineria)
 
 - **Análisis con Python**  
   Limpieza y análisis de grandes volúmenes de datos para detectar patrones de venta de autos y subir el resultado en render.  
